@@ -81,3 +81,19 @@ function onImgClick(e) {
 
   instance.show();
 }
+
+// if (states.query.trim() === '') {
+//     showAlert();
+//     return;
+//   }
+// .catch(error => showError());
+// export function showAlert() {
+//   alert({
+//     text: 'Please enter a valid request',
+//   });
+// }
+// export function showError() {
+//   alert({
+//     text: 'Please enter a valid request',
+//   });
+// }
